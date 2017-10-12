@@ -7,4 +7,5 @@ good good study Git
 day day up 
 one 
 two
-Creating a new branch is quick & simple
+Creating a new branch is quick AND simple
+
